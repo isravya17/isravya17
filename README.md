@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sravya 👋</h1>
+<p align="center">
+  Aspiring Data Analyst | Business Analyst | Finance Enthusiast
+</p>
 
-<!--
-**isravya17/isravya17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💡 Passionate about data-driven decision-making and financial markets. <br>
+  🚀 Skilled in Python, Power BI, Tableau, SQL, and Data Visualization.
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Data Analytics tools, Business acumen and Finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: <a href="mailto:inumellasravya@gmail.com" style="color:blue; text-decoration:underline;">inumellasravya@gmail.com</a>
+
+- ⚡ Fun fact: An Electronics Engineer turned Business/Data Analyst Professional
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravya-inumella/)
+
